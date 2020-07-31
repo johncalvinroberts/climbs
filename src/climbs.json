@@ -196,5 +196,17 @@
     "date": "2020-07-04T23:30:05.441Z",
     "type": "attempt",
     "remark": "Cool roof climb. My first time touching 5.12 and I was surprised I could actually do a lot of the moves. Not super comfortable with the overhang, though, so I only got about halfway through both times I tried."
+  },
+  {
+    "theCragUrl": "https://www.thecrag.com/climbing/china/fujian/route/3197726076",
+    "date": "2020-07-05T01:41:14.906Z",
+    "type": "attempt",
+    "remark": "Tried top roping. Wtf. Hard and scary."
+  },
+  {
+    "theCragUrl": "https://www.thecrag.com/climbing/china/fujian/route/3197726226",
+    "date": "2020-07-05T01:43:39.296Z",
+    "type": "ropedog",
+    "remark": "Cool roof climb. Did not send because it's too hard, but want to come back and send"
   }
 ]
